@@ -50,7 +50,7 @@ class NeuralNetwork():
         child = NeuralNetwork()
         def crossOver():
             def combine(a, b):
-                '''This function essentially mimics meiosis'''
+                '''This function essentially mimics meiosis. I'd like to thank Apollo Heo for helping me with the implementation of this code'''
                 if np.random.binomial(1,0.5) == 1:
                     return a/2 + b/2
                 idx = np.random.randint(0, 2, (*a.shape,))
