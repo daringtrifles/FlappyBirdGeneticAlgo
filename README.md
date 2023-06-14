@@ -1,2 +1,3 @@
 # FlappyBirdGeneticAlgo
-https://github.com/daringtrifles/FlappyBirdGeneticAlgo/blob/main/FlappyBird.gif
+
+![](https://github.com/daringtrifles/FlappyBirdGeneticAlgo/blob/main/FlappyBird.gif)
